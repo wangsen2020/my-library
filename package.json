@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:wangsen2020/my-library.git"
+    "url": "git+https://github.com/wangsen2020/my-library.git"
   },
   "author": "Your Name",
   "license": "MIT"
